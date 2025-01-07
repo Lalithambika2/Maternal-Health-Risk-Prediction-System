@@ -68,3 +68,7 @@
     This project demonstrates the successful application of machine learning in maternal health risk prediction.
     Early risk detection can assist healthcare providers in prioritizing care, optimizing resources, and reducing maternal mortality.
     Future improvements could include incorporating lifestyle, medical history, and socio-economic data for better predictions.
+
+## **License**
+
+This project is licensed under the [MIT License] (LICENSE).
